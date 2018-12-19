@@ -1,0 +1,99 @@
+C:\Projects\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.deps.json
+C:\Projects\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.json
+C:\Projects\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.dev.json
+C:\Projects\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.dll
+C:\Projects\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.pdb
+C:\Projects\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.Views.dll
+C:\Projects\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.Views.pdb
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csprojAssemblyReference.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CoreCompileInputs.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorAssemblyInfo.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorAssemblyInfo.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfoInputs.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfo.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.TagHelpers.input.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.TagHelpers.output.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorCoreGenerate.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Order\List.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorTargetAssemblyInfo.cache
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorTargetAssemblyInfo.cs
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.Views.pdb
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.dll
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.pdb
+C:\Projects\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CopyComplete
+C:\Users\Динара\Downloads\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.deps.json
+C:\Users\Динара\Downloads\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.json
+C:\Users\Динара\Downloads\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.dev.json
+C:\Users\Динара\Downloads\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.dll
+C:\Users\Динара\Downloads\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.pdb
+C:\Users\Динара\Downloads\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.Views.dll
+C:\Users\Динара\Downloads\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.Views.pdb
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csprojAssemblyReference.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CoreCompileInputs.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorAssemblyInfo.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorAssemblyInfo.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfoInputs.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfo.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.TagHelpers.input.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.TagHelpers.output.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorCoreGenerate.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Order\List.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorTargetAssemblyInfo.cache
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorTargetAssemblyInfo.cs
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.Views.pdb
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.dll
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.pdb
+C:\Users\Динара\Downloads\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CopyComplete
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.deps.json
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.json
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.runtimeconfig.dev.json
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.dll
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.pdb
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.Views.dll
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\bin\Debug\netcoreapp2.2\Sales.Views.pdb
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csprojAssemblyReference.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CoreCompileInputs.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorAssemblyInfo.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorAssemblyInfo.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfoInputs.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.AssemblyInfo.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.TagHelpers.input.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.TagHelpers.output.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorCoreGenerate.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Order\List.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorTargetAssemblyInfo.cache
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.RazorTargetAssemblyInfo.cs
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.Views.pdb
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.dll
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.pdb
+c:\Users\Динара\Downloads\Telegram Desktop\Sales\Sales\obj\Debug\netcoreapp2.2\Sales.csproj.CopyComplete
